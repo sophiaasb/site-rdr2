@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(black, rgb(202, 16, 16));
+}
+
+h1{
+    font-size: 65px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+hr{
+    width: 50%;
+    height: 3px;
+    background: white;
+}
+
+p{
+    width: 50%;
+    margin: auto;
+    font-size: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    color: white;
+}
+    
+img{
+    height: 180px;
+}
+
+#caixa{
+    width: fit-content;
+    margin: auto;
+}
+
+.rdr2{
+    height: 200px;
+    display: block;
+    margin: auto;
+}
